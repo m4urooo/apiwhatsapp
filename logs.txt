@@ -1,0 +1,20 @@
+pase recibido
+[
+  {
+    from: '56977710922',
+    id: 'wamid.HBgLNTE5NDM2NjI5NjQVAgASGBQzQUNCODUzN0U1QkU5MkZENTFBQwA=',
+    Timestamp: '1660362642',
+    type: 'text',
+    text: { body: 'hola 123456780 ' },
+    interactive: null,
+    image: null,
+    audio: null,
+    video: null,
+    document: null,
+    sticker: null,
+    location: null,
+    contacts: null,
+    system: null
+  }
+]
+aqui estoy ahora, dentro del try

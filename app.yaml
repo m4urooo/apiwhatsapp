@@ -1,1 +1,4 @@
-runtime: nodejs16
+runtime: nodejs18
+
+env_variables:
+  GCLOUD_STORAGE_BUCKET: gs://impressive-hull-385817.appspot.com

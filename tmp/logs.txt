@@ -1,0 +1,6 @@
+pase recibido
+hola DE NUEVO 
+aqui estoy ahora, dentro del try2
+pase recibido
+hola DE NUEVO 
+aqui estoy ahora, dentro del try2
